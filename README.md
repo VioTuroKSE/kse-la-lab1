@@ -1,2 +1,4 @@
-# kse-la-lab1
-Repo for code used in Lab 1 of Linear Algebra course
+# Лабораторна робота №1
+## Виконав Ткачов Артур
+
+_(тут будуть відповіді на теоретичні питання)_
